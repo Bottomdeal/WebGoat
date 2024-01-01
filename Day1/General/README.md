@@ -17,3 +17,5 @@ MAGIC NUM = 79를 확인
 POST와 79를 입력하면 성공
 
 ![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/42607c46-1254-494e-b332-a14da971c118)
+
+USE THE INTERCEPT
