@@ -24,3 +24,8 @@ USE THE INTERCEPT
 
 ![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/d746f16a-4ac4-49c9-b275-92165f3bec35)
 
+인터셉트에서 post를 get으로, changeme를 변경
+
+![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/9bfa2f46-fdf8-43bd-aad8-9958f3f19506)
+
+
