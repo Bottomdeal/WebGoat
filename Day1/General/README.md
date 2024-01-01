@@ -19,3 +19,8 @@ POST와 79를 입력하면 성공
 ![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/42607c46-1254-494e-b332-a14da971c118)
 
 USE THE INTERCEPT
+
+파라미터가 존재하는 것만 골라내기
+
+![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/d746f16a-4ac4-49c9-b275-92165f3bec35)
+
