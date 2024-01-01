@@ -28,4 +28,10 @@ USE THE INTERCEPT
 
 ![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/9bfa2f46-fdf8-43bd-aad8-9958f3f19506)
 
+get은 url에 포함되어야 하기 때문에, 이렇게 수정
 
+![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/5c4cbac2-5460-41b4-bb84-f525a97f17a1)
+
+성공
+
+![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/ad9ba4e6-d3d5-46cb-ade5-eb0be4f48c24)
