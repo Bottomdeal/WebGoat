@@ -4,4 +4,5 @@ body부분에 실어서 보내는 건 POST
 
 프록시 서버 사용해서 WebGoat 접속
 
-![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/c6fa6e83-4860-493d-8364-91d569579b9a)
+기존에는 웹브라우저와(client) WebGoat(server)가 직접 http메시지를 주고받지만,
+프록시 서버를 사용하면 client와 server 중간에서 http메시지를 전달한다.
