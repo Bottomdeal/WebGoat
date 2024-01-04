@@ -1,4 +1,5 @@
 <h3>테이블에 Dave가 없어서 결과가 나오지 않음</h3>
+
 ![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/df3778ee-df03-4457-8d5c-924233342af0)<hr>
 위의 테이블 형식과는 달리 7개의 attribute로 이루어진 테이블인걸 확인<br>
 ![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/f19a0a48-7b5e-4bd6-8563-9a1ae9651590)<hr>
