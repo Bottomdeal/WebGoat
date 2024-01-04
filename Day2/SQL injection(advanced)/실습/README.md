@@ -33,6 +33,23 @@ tom의 패스워드가 23 자리니? -> 참인 반응<br>
 첫 번째 글자가 a니 -> 거짓 . 이렇게 모든 경우의 수를 다 넣으면서 해야 함<br>
 ![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/2a8705bc-59be-4a76-8989-6f6541462a10)<hr>
 경우의 수가 너무 많으므로 자동화의 힘을 빌려서 해결 해 보자<hr>
+BURP SUITE의 기능을 사용<br>
+Intruder에서 자동화 할 부분을 선택하고 add를 누르면 좌우에 $표시가 생김
+![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/ea66fdfa-9ac2-49d2-9579-f23d9dc5d82e)<br>
+패스워드 뒤의 숫자도 바꿔줌<br>
+![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/ea62c0e4-1d63-4ebf-9604-bddb950a0131)<hr>
+attack type을 Cluster bomb로 변경(1일 때 a-z까지 2일때 a-z까지.....모든 경우의 수 계산해줌<hr>
+payload 부분에서 1부터 23까지 1씩 증가시키면서 대입<br>
+![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/0a13e055-0a84-44c3-bc96-2dba372998fd)<hr>
+최소 길이 1 최대길이 1, a부터 z까지 하나씩 다 넣어봐라<br>
+![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/d3aa99a5-c7f9-44f3-975e-d441ba5a63d1)<hr>
+다른 것보다 length가 긴 부분을 확인하여 이미 존재한다 반응을 확인(참인 반응) -> 7번째 자리는 a구나 라는 걸 확인<br>
+![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/f8c50e22-ec7f-48fb-8ec9-d9b8cc5caf3a)<hr>
+
+
+
+
+
 
 
 
