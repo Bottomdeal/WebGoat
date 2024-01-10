@@ -8,5 +8,6 @@
 order by 절<br>
 <hr>
 이렇게 오름차순으로 정렬이 가능하다는 건 order by 절을 사용했을 수도 있겠다고 추측할 수 있음 -> order by절에 sql injection을 시도 할 수 있지 않을까?<br>
+
 ![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/42fa173c-2fee-4664-ac81-9df6a47facfa)
 
