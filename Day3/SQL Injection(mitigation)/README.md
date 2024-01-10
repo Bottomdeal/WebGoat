@@ -23,7 +23,8 @@ order by 절<br>
 
 ![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/0aad8f47-ae61-49ff-9c8b-9e13ce951367)
 <hr>
-webgoat-prd라는 요소에서 두번째 str이 0인가 ? -> 참
+webgoat-prd라는 요소에서 두번째 str이 0인가 ? -> 참<br>
+
 ![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/896add41-29b8-4934-9fb2-7b6c68384f62)
 <br>
 ![image](https://github.com/Bottomdeal/WebGoat/assets/120577570/55179934-cdff-44f5-a065-9249da4854eb)
